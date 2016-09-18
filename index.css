@@ -1,0 +1,96 @@
+body{
+	margin: 0;
+	background-color:#1F1D1D;
+}
+
+.dashbar{
+	width: 100%;
+	background-color: #1F1D1D;
+	height: 100px;
+	text-align: center;
+}
+
+.button-container {
+	display: block;
+}
+
+.grid {
+	width: 610px;
+	display: inline-block;
+}
+
+.row {
+	display: inline-block;
+}
+.cell-text{
+	margin-top: 90px;
+}
+.cell {
+	/*border: 1px solid white;*/
+	color: white;
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.block {
+	display: inline-block;
+	position: relative;
+	left:5px;
+	top: 30px;
+}
+
+.panel-container {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #1F1D1D;
+}
+
+.grid-container{
+	background-color: #1F1D1D;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#header {
+	height: 50px;
+	background-color: #FAFAFA;
+}
+.grid-padding {
+	width: 100%;
+	text-align: center;
+}
+
+.toggle {
+	outline: none;
+	width: 150px;
+	height: 75px;
+	margin: 12.5px 5px;
+	background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.active {
+	background-color: #4CAF50;
+}
+.inactive{
+	background-color: #F44336;
+}
+
+.module {
+	display: inline-block;
+	height: 400px;
+	width: 400px;
+	background-color: black;
+	margin:5px;
+	border: none;
+}
