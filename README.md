@@ -20,6 +20,6 @@ We have successfully processed and pipelined mass data from hardware devices and
 # What we learned
 We learned how to leverage all of our unique skill-sets within the different components of the project. This ultimately required a modular-approach to our solution. Through unit testing we were first able to design some individual aspects, which we then assembled with higher-level software.
 
-# What's next for BudLabs HypeTrain
+# What's next for Agrow
 Establish an effective business model for distributing sets of our hardware hack across all crop lands. Minimize circuit design by eliminating the use of an Arduino Uno to reduce latency and make our unit more minimalistic.
 
